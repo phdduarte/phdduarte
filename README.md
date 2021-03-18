@@ -43,6 +43,7 @@ I try to get up every day to do something that can give people back their most p
 <code>![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)</code> &nbsp;&nbsp;
 <code>![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)</code> &nbsp;&nbsp;
 <code>![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)</code> &nbsp;&nbsp;
+<code>![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vuejs)</code> &nbsp;&nbsp;
 
 ### Deploy
 
