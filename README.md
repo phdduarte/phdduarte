@@ -11,7 +11,7 @@ I try to get up every day to do something that can give people back their most p
 - 🎒 &nbsp; Digital nomad.
 - 👨‍🏫 &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
 - 📸 &nbsp; Instagram <a href="https://www.instagram.com/phdduarte/">@phdduarte</a>
-- 📺 &nbsp; Youtube <a href="https://www.youtube.com/channel/UC1hFKnbaZ2dvmdYSDbRgVsA">PHD do AMP</a>
+- 📺 &nbsp; <a href="https://www.youtube.com/channel/UC1hFKnbaZ2dvmdYSDbRgVsA">Youtube</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
