@@ -5,7 +5,7 @@ I try to get up every day to do something that can give people back their most p
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🦅 &nbsp; CEO <a href="https://www.nextime.com.br/">NeXTIME</a> <a href="https://www.instagram.com/nextimetec/">@nextimetec</a>
+- 🦅 &nbsp; Software Engineer <a href="https://www.nextime.com.br/">NeXTIME</a> <a href="https://www.instagram.com/nextimetec/">@nextimetec</a>
 - 🎓 &nbsp; B.Sc. in Computer Science at Ouro Preto University.
 - ⚡️ &nbsp; <a href="https://amp.dev/">Google AMP</a> specialist.
 - 🎒 &nbsp; Digital nomad.
