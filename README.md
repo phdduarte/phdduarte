@@ -26,10 +26,7 @@ I try to get up every day to do something that can give people back their most p
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="left">Technologies & Tools</h2>
-> Tools, languages, and other things that I like to work with.
-
-📋 Languages
+📋 Tools, languages, and other things that I like to work with.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
