@@ -21,7 +21,7 @@ I try to get up every day to do something that can give people back their most p
   <a href="https://www.instagram.com/phdduarte/">
     <img alt="pedro duarte instagram" src= "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="[https://www.instagram.com/phdduarte](https://www.youtube.com/channel/UC1hFKnbaZ2dvmdYSDbRgVsA)/">
+  <a href="https://www.youtube.com/channel/UC1hFKnbaZ2dvmdYSDbRgVsA">
     <img alt="pedro duarte youtube" src= "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
   </a>
 </p>
